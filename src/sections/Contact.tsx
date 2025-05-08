@@ -29,7 +29,7 @@ export const ContactSection = () => {
           <div className="flex flex-col md:flex-row gap-8 md:gap-16 items-center">
             <div className="">
               <h2 className="font-serif text-2xl md:text-3xl">
-                Créons quelque chose d'incroyable ensemble
+                Créons quelque chose d&apos;incroyable ensemble
               </h2>
               <p className="text-sm mt-2 md:text-base">
                 Prêt à donner vie à votre prochain projet financier ?

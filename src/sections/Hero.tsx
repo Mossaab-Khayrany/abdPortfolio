@@ -145,12 +145,12 @@ export const HeroSection = () => {
         </div>
         <div className="max-w-lg mx-auto">
           <h1 className="font-serif text-3xl text-center mt-8 tracking-wide md:text-5xl">
-            Clarté financière via l’analyse de données
+            Clarté financière via l&apos;analyse de données
           </h1>
           <p className="mt-4 text-center text-white/60 md:text-lg">
-            Bonjour, moi c'est Abdessamad. Actuellement en Master de Contrôle de
-            Gestion et Audit, je possède une expérience pratique en analyse
-            financière, reporting et gestion des risques.
+            Bonjour, moi c&apos;est Abdessamad. Actuellement en Master de
+            Contrôle de Gestion et Audit, je possède une expérience pratique en
+            analyse financière, reporting et gestion des risques.
           </p>
         </div>
         <div className="flex flex-col md:flex-row justify-center items-center mt-8 gap-4 relative z-10">
