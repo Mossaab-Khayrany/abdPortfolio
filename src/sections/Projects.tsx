@@ -38,7 +38,7 @@ const portfolioProjects = [
     title: "Assistant Comptable",
     results: [
       {
-        title: "Mise en place d'un modèle d’analyse des coûts par département.",
+        title: "Mise en place d'un modèle d'analyse des coûts par département.",
       },
       {
         title:
@@ -46,7 +46,7 @@ const portfolioProjects = [
       },
       {
         title:
-          "Collaboration à l’élaboration d'un tableau de bord de rentabilité sous Excel pour la direction.",
+          "Collaboration à l&apos;élaboration d'un tableau de bord de rentabilité sous Excel pour la direction.",
       },
     ],
     image: lightSaasLandingPage,
@@ -93,7 +93,7 @@ export const ProjectsSection = () => {
         <SectionHeader
           title="Projets phares"
           eyebrow="Résultats concrets"
-          description="De l’analyse des données à l’action : mes projets en finance et contrôle de gestion."
+          description="De l'analyse des données à l'action : mes projets en finance et contrôle de gestion."
         />
         <div className="md:mt-20 flex flex-col mt-10 gap-20">
           {portfolioProjects.map((project, pIndex) => (

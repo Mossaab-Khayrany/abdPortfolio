@@ -3,11 +3,8 @@
 import memojiAvatar1 from "@/assets/images/memoji-avatar-1.png";
 import memojiAvatar2 from "@/assets/images/memoji-avatar-2.png";
 import memojiAvatar3 from "@/assets/images/memoji-avatar-3.png";
-import memojiAvatar4 from "@/assets/images/memoji-avatar-4.png";
-import memojiAvatar5 from "@/assets/images/memoji-avatar-5.png";
 import { SectionHeader } from "@/components/SectionHeader";
 import Image from "next/image";
-import grainImage from "@/assets/images/grain.jpg";
 import { Card } from "@/components/Card";
 import { Fragment, useEffect } from "react";
 import { useInView } from "react-intersection-observer";
@@ -29,7 +26,7 @@ const testimonials = [
   {
     name: "Khalid Errami",
     position: "Manager @ DropStore",
-    text: "Abdessamad a contribué à l'optimisation de notre entreprise. Grâce à son expertise en analyse des données et en gestion financière, il a permis d'augmenter nos ventes grace aux outils qu'il a créés pour suivre et analyser nos performances.",
+    text: "Abdessamad a contribué à l&apos;optimisation de notre entreprise. Grâce à son expertise en analyse des données et en gestion financière, il a permis d'augmenter nos ventes grace aux outils qu&apos;il a créés pour suivre et analyser nos performances.",
     avatar: memojiAvatar3,
   },
 ];
